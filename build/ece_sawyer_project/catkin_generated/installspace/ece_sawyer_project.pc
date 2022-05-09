@@ -1,0 +1,8 @@
+prefix=/home/tony/final_project/install
+
+Name: ece_sawyer_project
+Description: Description of ece_sawyer_project
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp intera_core_msgs

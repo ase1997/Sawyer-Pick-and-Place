@@ -1,0 +1,8 @@
+prefix=/home/tony/final_project/devel
+
+Name: ece_555_sawyer_example
+Description: Description of ece_555_sawyer_example
+Version: 0.0.0
+Cflags: -I/home/tony/final_project/src/ece_555_sawyer_example/include
+Libs: -L${prefix}/lib 
+Requires: roscpp intera_core_msgs

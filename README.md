@@ -13,7 +13,7 @@ NCSU ECE 555 (Computer Control of Robots) Capstone Project
   - Python3/C++11 or above
   - Physical Sawyer robotic arm
 
-## Result
+## Results
   - See [ncsu_ece_sawyer_robotics.mp4](https://github.com/ase1997/Sawyer-Pick-and-Place/blob/main/ncsu_ece_sawyer_robotics.mp4)
 
 ## Author

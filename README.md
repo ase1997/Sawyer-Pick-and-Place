@@ -12,7 +12,13 @@ NCSU ECE 555 (Computer Control of Robots) Capstone Project
   - ROS Neotic with MoveIT package installed
   - Python3/C++11 or above
   - Physical Sawyer robotic arm
-  
+
+## Result
+![ase1997](https://https://github.com/ase1997/Sawyer-Pick-and-Place/blob/main/ncsu_ece_sawyer_robotics.mp4)
+<p align="center">
+Figure 1. Project Result.
+</p>
+
 ## Author
 Antony John Edathattil, Nikhil Khanna, Priya Jakhar, Khoa Do, Alexander McGirt.
 
